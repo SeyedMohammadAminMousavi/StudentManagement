@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement.Api", "StudentManagement.Api\StudentManagement.Api.csproj", "{BF4EBA96-C154-4A1D-95D1-62EB48527D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement.WinFormsClient", "StudentManagement.WinFormsClient\StudentManagement.WinFormsClient.csproj", "{66729C1E-B88E-4E3C-A0BB-06B8CBF13236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4EBA96-C154-4A1D-95D1-62EB48527D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4EBA96-C154-4A1D-95D1-62EB48527D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4EBA96-C154-4A1D-95D1-62EB48527D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4EBA96-C154-4A1D-95D1-62EB48527D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66729C1E-B88E-4E3C-A0BB-06B8CBF13236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66729C1E-B88E-4E3C-A0BB-06B8CBF13236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66729C1E-B88E-4E3C-A0BB-06B8CBF13236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66729C1E-B88E-4E3C-A0BB-06B8CBF13236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5753EE73-CDCD-482F-9BE5-48D7CE5DA94A}
+	EndGlobalSection
+EndGlobal
